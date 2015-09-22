@@ -1,1 +1,1 @@
-This File will store the Android App code.
+This Folder store the Android App codes.
